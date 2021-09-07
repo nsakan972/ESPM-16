@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.17)  5 SEP 2021 00:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.17)  5 SEP 2021 16:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -409,12 +409,16 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <24.88> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 35.
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3
 5.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
+LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <24.88> not available
+(Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 35.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <20.74> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 44.
 Package epstopdf Info: Source file: <fig/psi_n_3_l_0.eps>
@@ -434,7 +438,7 @@ Package pdftex.def Info: fig/psi_n_3_l_0-eps-converted-to.pdf  used on input li
 ne 98.
 (pdftex.def)             Requested size: 329.22919pt x 469.75386pt.
 
-Underfull \hbox (badness 6110) in paragraph at lines 175--177
+Underfull \hbox (badness 6110) in paragraph at lines 173--175
 []\OT1/phv/m/n/20.74 Vitel, Y., Gavrilova, T., D'yachkov, L.,
  []
 
@@ -443,11 +447,11 @@ Underfull \hbox (badness 6110) in paragraph at lines 175--177
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./fig/psi_n_3_l_0-eps-conv
 erted-to.pdf>] (./poster_ESPM-16_ns_zs_md.aux) ) 
 Here is how much of TeX's memory you used:
- 4445 strings out of 481239
- 71065 string characters out of 5920377
- 500878 words of memory out of 5000000
- 19604 multiletter control sequences out of 15000+600000
- 556891 words of font info for 78 fonts, out of 8000000 for 9000
+ 4438 strings out of 481239
+ 70975 string characters out of 5920377
+ 501878 words of memory out of 5000000
+ 19599 multiletter control sequences out of 15000+600000
+ 553578 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,8n,33p,1253b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/
@@ -457,14 +461,13 @@ s/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/font
-s/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
-helvetic/uhvro8a.pfb>
-Output written on poster_ESPM-16_ns_zs_md.pdf (1 page, 112994 bytes).
+e/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on poster_ESPM-16_ns_zs_md.pdf (1 page, 105471 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
